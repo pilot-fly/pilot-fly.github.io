@@ -814,9 +814,10 @@ figure.effect-bubba {
 }
 
 figure.effect-bubba img {
-    width: 360px;
+    /*width: 360px;*/
     height: 225px;
     opacity: 0.7;
+    margin: auto;
     -webkit-transition: opacity 0.35s;
     transition: opacity 0.35s;
 }
